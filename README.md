@@ -23,3 +23,5 @@ This is the backend for the Books-renting web-application using TypeScript, Mong
 - Author: Create new author, Update, and Delete author
 - User: Create new book, update password, request new password,
 - Book: Create new book, update information of book, reserve books, cancel reservation, delete book (Admin only)
+
+[Link to API Document](https://github.com/riofed5/API-document) 
